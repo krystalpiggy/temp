@@ -1,0 +1,4282 @@
+[
+ {
+   "uri": "Escondido_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Chorey-les-Beaune_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Ribera_del_Andarax_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Willcox_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Denominação_de_Origem_Controlada_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Campania_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Central_Otago_wine_region_instance",
+   "Region_Country": "New_Zealand"
+ },
+ {
+   "uri": "New_Mexico_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "The_Peninsulas_zone_(wine)_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Chalone_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "McLaren_Vale_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Bălți_(wine)_instance",
+   "Region_Country": "Moldova"
+ },
+ {
+   "uri": "Idaho_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Bulgarian_wine_instance",
+   "Region_Country": "Bulgary"
+ },
+ {
+   "uri": "Cahors_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Algarve_VR_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Chapelle-Chambertin_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Côtes_du_Roussillon_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "San_Bernabe_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Illinois_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Überetsch_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Pago_Florentino_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Snake_River_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Barbera_d'Asti_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Apulia_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Adelaida_District_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Mâconnais_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Georgia_(U.S._state)_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Liébana_(wine)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Vinsobres_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Trinity_Lakes_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Limoux_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Valle_del_Miño-Orense_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Paicines_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Peruvian_wine_instance",
+   "Region_Country": "N/A"
+ },
+ {
+   "uri": "Hastings_River_wine_region_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Cayuga_Lake_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Ribeiras_do_Morrazo_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Eagle_Peak_Mendocino_County_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Pouilly-Fuissé_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Rheingau_(wine_region)_instance",
+   "Region_Country": "Germany"
+ },
+ {
+   "uri": "Leelanau_Peninsula_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Grand_River_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "McDowell_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "San_Pasqual_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Irouléguy_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Bourgogne_Aligoté_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Northern_Sonoma_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Condrieu_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "California_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Macedonian_wine_instance",
+   "Region_Country": "Macedona"
+ },
+ {
+   "uri": "El_Terrerazo_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Getariako_Txakolina_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Cagliari_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Somontano_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "South_Australian_wine_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Banyuls_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Rhineland-Palatinate_instance",
+   "Region_Country": "Germany"
+ },
+ {
+   "uri": "Sierra_Sur_de_Jaén_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Bâtard-Montrachet_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Minnesota_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Valle_de_Güímar_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Pico_IPR_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Seiad_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Dingač_instance",
+   "Region_Country": "Croatia"
+ },
+ {
+   "uri": "Bullas_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Dutch_wine_instance",
+   "Region_Country": "Netherlands"
+ },
+ {
+   "uri": "Elkton_Oregon_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Vietnamese_wine_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Litoměřická_wine_instance",
+   "Region_Country": "Bohemia"
+ },
+ {
+   "uri": "Russian_wine_instance",
+   "Region_Country": "Russia"
+ },
+ {
+   "uri": "Tracy_Hills_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "French_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Côte_de_Beaune_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Changli_County_instance",
+   "Region_Country": "China"
+ },
+ {
+   "uri": "Oakville_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Sauternes,_Gironde_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Madiran_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Arruda_DOC_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Ben_Lomond_Mountain_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Côtes_du_Rhône_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Cerasuolo_di_Vittoria_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Moscadello_di_Montalcino_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Montferrat_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Mazoyères-Chambertin_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Mount_Harlan_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Prince_Edward_County_Wine_instance",
+   "Region_Country": "Canada"
+ },
+ {
+   "uri": "Regional_Bordeaux_AOCs_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Mazis-Chambertin_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Mount_Veeder_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Vidigueira_wine_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Almeirim_wine_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Jura_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Clare_Valley_wine_region_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Ruchottes-Chambertin_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Washington_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Heathcote_wine_region_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Merbein_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Monti,_Sardinia_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Château-Chalon_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "North_Fork_of_Roanoke_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Cova_da_Beira_wine_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Pinhel_wine_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Seyssel_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Eola-Amity_Hills_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Pommard_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Central_Coast_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Wild_Horse_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Tuscan_wine_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Alisos_Canyon_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Roussette_de_Savoie_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Antelope_Valley_of_the_California_High_Desert_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Vino_de_Pago_instance",
+   "Region_Country": "N/A"
+ },
+ {
+   "uri": "Dry_Creek_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Cabardès_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Goumenissa_instance",
+   "Region_Country": "Greece"
+ },
+ {
+   "uri": "Potter_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Ghemme_DOCG_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Campo_de_Borja_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Mornington_Peninsula_(wine)_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Cangas_(Vino_de_la_Tierra)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Kamptal_instance",
+   "Region_Country": "Austria"
+ },
+ {
+   "uri": "Alcamo_wine_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Pomino_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Coteaux_Champenois_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Abona_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Brindisi_Rosso_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Denominación_de_origen_instance",
+   "Region_Country": "N/A"
+ },
+ {
+   "uri": "Swiss_wine_instance",
+   "Region_Country": "Switzerland"
+ },
+ {
+   "uri": "Mendocino_County_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Swedish_wine_instance",
+   "Region_Country": "Swedan"
+ },
+ {
+   "uri": "Tavel_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "New_York_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Dunnigan_Hills_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Prado_de_Irache_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Montagne-Saint-Émilion_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Carmel_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Piesporter_instance",
+   "Region_Country": "Germany"
+ },
+ {
+   "uri": "Saint-Bris_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Santa_Lucia_Highlands_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Creston_District_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Óbidos_DOC_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Tokaji_instance",
+   "Region_Country": "Hungry"
+ },
+ {
+   "uri": "Limestone_Coast_zone_(wine)_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Upper_Hiwassee_Highlands_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Nevada_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Sloughhouse_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Moulin-à-Vent_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Southern_Highlands_(New_South_Wales)_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Kremstal_instance",
+   "Region_Country": "Austria"
+ },
+ {
+   "uri": "Colares_DOC_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Missouri_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Bourgogne_Passe-Tout-Grains_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Wahluke_Slope_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Gálvez_(Vino_de_la_Tierra)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Côte_des_Blancs_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Redwood_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Elba_DOC_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Ornellaia_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Corton_(wine)_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Morey-Saint-Denis_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Chianti_(region)_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Mudgee_wine_region_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Currency_Creek_wine_region_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Landscape_of_the_Pico_Island_Vineyard_Culture_instance",
+   "Region_Country": "N/A"
+ },
+ {
+   "uri": "Béarn_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Beaumes_de_Venise_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Ostuni_DOC_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Cremisan_Valley_instance",
+   "Region_Country": "Others"
+ },
+ {
+   "uri": "Weinviertel_DAC_instance",
+   "Region_Country": "Austria"
+ },
+ {
+   "uri": "Rocky_Knob_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Calistoga_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Chilean_wine_instance",
+   "Region_Country": "N/A"
+ },
+ {
+   "uri": "Wisconsin_Ledge_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Montilla-Moriles_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Serra_de_Tramuntana-Costa_Nord_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Corsica_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Sonoma_Coast_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Saint-Aubin_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Mount_Gambier_wine_region_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "North_Coast_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Alicante_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Turkish_wine_instance",
+   "Region_Country": "Turkey"
+ },
+ {
+   "uri": "Temecula_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Auxey-Duresses_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Coteaux_du_Layon_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Barbanza_e_Iria_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Nistreană_(wine)_instance",
+   "Region_Country": "Moldova"
+ },
+ {
+   "uri": "Est!_Est!!_Est!!!_di_Montefiascone_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Armenian_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Moroccan_wine_instance",
+   "Region_Country": "Morocco"
+ },
+ {
+   "uri": "Bordeaux_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Lussac-Saint-Émilion_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Novyi_Svit_instance",
+   "Region_Country": "Ukrain"
+ },
+ {
+   "uri": "Shabo,_Odessa_Oblast_instance",
+   "Region_Country": "Romania"
+ },
+ {
+   "uri": "Costers_del_Segre_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Coteaux_du_Lyonnais_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Waipara_instance",
+   "Region_Country": "New_Zealand"
+ },
+ {
+   "uri": "Virginia_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Chiles_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Lamorinda_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Castelló_(Vino_de_la_Tierra)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Jordanian_wine_instance",
+   "Region_Country": "Jordan"
+ },
+ {
+   "uri": "Green_Valley_of_Russian_River_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Saint-Romain_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Dão_DOC_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Slovenian_wine_instance",
+   "Region_Country": "N/A"
+ },
+ {
+   "uri": "Trás-os-Montes_wine_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Cortese_di_Gavi_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "San_Benito_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "North_East_Victoria_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Bienvenues-Bâtard-Montrachet_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Málaga_and_Sierras_de_Málaga_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Bizkaiko_Txakolina_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Western_Victoria_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Swan_Hill_wine_region_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Noto_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Northern_Neck_George_Washington_Birthplace_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Nepal_wine_instance",
+   "Region_Country": "Argentina"
+ },
+ {
+   "uri": "Pauillac_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Côte_de_Sézanne_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Jidvei_wines_instance",
+   "Region_Country": "Romania"
+ },
+ {
+   "uri": "Maremma_Toscana_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Sonoma_Valley_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Sabile_instance",
+   "Region_Country": "Latvia"
+ },
+ {
+   "uri": "Mississippi_Delta_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Aloxe-Corton_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Diamond_Mountain_District_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Clairette_de_Die_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Crémant_d'Alsace_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Carcavelos_DOC_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Criots-Bâtard-Montrachet_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Irish_wine_instance",
+   "Region_Country": "Ireland"
+ },
+ {
+   "uri": "Catoctin_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Slovak_wine_instance",
+   "Region_Country": "Slovakia"
+ },
+ {
+   "uri": "Niagara_Escarpment_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Moldovan_wine_instance",
+   "Region_Country": "Moldova"
+ },
+ {
+   "uri": "Campo_de_La_Guardia_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Montepulciano_d'Abruzzo_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Arkansas_Mountain_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Virginia's_Eastern_Shore_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Gigondas_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "The_Golden_Mile,_Spain_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Kanawha_River_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Codru_(wine)_instance",
+   "Region_Country": "Moldova"
+ },
+ {
+   "uri": "Rasteau_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Sancerre_(wine)_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Monthélie_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Savoy_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Samos_instance",
+   "Region_Country": "Greece"
+ },
+ {
+   "uri": "Tejo_VR_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Hautes-Côtes_de_Nuits_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Sopron_wine_region_instance",
+   "Region_Country": "Hungary"
+ },
+ {
+   "uri": "Coteaux_de_Pierrevert_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Ribeiro_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Florida_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Weinviertel_instance",
+   "Region_Country": "Austria"
+ },
+ {
+   "uri": "Pyrenees_(Victoria)_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Bendigo,_New_Zealand_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Pessac-Léognan_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Recioto_di_Soave_DOCG_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Kitzeck_im_Sausal_instance",
+   "Region_Country": "Austria"
+ },
+ {
+   "uri": "Ribeira_Sacra_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Arribes_(wine)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Bierzo_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Encostas_d'Aire_DOC_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Barbaresco_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Fitou_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Healdsburg,_California_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Savigny-lès-Beaune_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Saxony_(wine_region)_instance",
+   "Region_Country": "Germany"
+ },
+ {
+   "uri": "Cadillac_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Yecla_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Penedès_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Alta_Mesa_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Maule_Valley_instance",
+   "Region_Country": "Chile"
+ },
+ {
+   "uri": "Beaune_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Beaujolais_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Biscoitos_IPR_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Pouilly-Fumé_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Brunello_di_Montalcino_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Paso_Robles_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Buzet_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Côte_de_Nuits_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Napa_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Brachetto_d'Acqui_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Mendocino_Ridge_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Paraguayan_wine_instance",
+   "Region_Country": "Paraguay"
+ },
+ {
+   "uri": "Oregon_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Comrat_Wine_Region_instance",
+   "Region_Country": "Moldova"
+ },
+ {
+   "uri": "Carso_DOC_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "El_Dorado_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Ramona_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Valdejalón_(Vino_de_la_Tierra)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Charmes-Chambertin_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Dealu_Mare_wine_region_instance",
+   "Region_Country": "Romania"
+ },
+ {
+   "uri": "Trento_DOC_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Margaret_River_(wine_region)_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Old_World_wine_instance",
+   "Region_Country": "WORLD"
+ },
+ {
+   "uri": "Ribera_del_Queiles_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Serbian_wine_instance",
+   "Region_Country": "Sebia"
+ },
+ {
+   "uri": "Hunter_Region_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Nagambie_Lakes_wine_region_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Seneca_Lake_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Lombardia_(wine)_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Naousa,_Imathia_instance",
+   "Region_Country": "Greece"
+ },
+ {
+   "uri": "Paxarette_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Clarksburg_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Yountville_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Volnay_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Moscato_d'Asti_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Somló_instance",
+   "Region_Country": "Hungry"
+ },
+ {
+   "uri": "Romanée-Saint-Vivant_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "South_Dakota_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "British_Columbia_wine_instance",
+   "Region_Country": "Canada"
+ },
+ {
+   "uri": "Jurançon_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Colline_di_Levanto_DOC_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Vosne-Romanée_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "King_Valley_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Borden_Ranch_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Umpqua_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Roero_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Piccadilly_Valley_wine_sub-region_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Spring_Mountain_District_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "North_Carolina_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Meursault_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "El_Hierro_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Cariñena_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Cotnari_instance",
+   "Region_Country": "Romania"
+ },
+ {
+   "uri": "Ribera_del_Guadiana_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Happy_Canyon_of_Santa_Barbara_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Merritt_Island_(California)_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Evora_wine_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Hungarian_wine_instance",
+   "Region_Country": "Hungary"
+ },
+ {
+   "uri": "La_Mancha_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Orvieto_DOC_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Châteauneuf-du-Pape_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Arlanza_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Villaviciosa_de_Córdoba_(Vino_de_la_Tierra)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Great_Southern_(wine_region)_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Mendocino_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Ohio_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Dehesa_del_Carrizal_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Palmela_DOC_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Los_Palacios_(Vino_de_la_Tierra)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Beechworth_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Cypriot_wine_instance",
+   "Region_Country": "Cypiot"
+ },
+ {
+   "uri": "Greek_wine_instance",
+   "Region_Country": "N/A"
+ },
+ {
+   "uri": "Terrasses_du_Larzac_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "North_Fork_of_Long_Island_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "High_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Maltese_wine_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Sierras_de_las_Estancias_y_los_Filabres_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Shawnee_Hills_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Beiras_VR_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Finca_Élez_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Fair_Play_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Clos_de_Tart_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Aconcagua_(wine_region)_instance",
+   "Region_Country": "Chile"
+ },
+ {
+   "uri": "Eastern_Connecticut_Highlands_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Sovana_DOC_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Duna_wine_region_instance",
+   "Region_Country": "Hungary"
+ },
+ {
+   "uri": "Lalande-de-Pomerol_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "3_Riberas_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Cumberland_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Red_Hills_Lake_County_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Israeli_wine_instance",
+   "Region_Country": "Israel"
+ },
+ {
+   "uri": "Trentino_wine_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Torreperogil_(Vino_de_la_Tierra)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Coombsville_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Kazakh_wine_instance",
+   "Region_Country": "Kazakhstan"
+ },
+ {
+   "uri": "Indiana_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Mount_Benson_wine_region_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Montefalco_DOC_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Givry_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Terra_Alta_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Côte-Rôtie_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Jumilla_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Wachau_wine_instance",
+   "Region_Country": "Austria"
+ },
+ {
+   "uri": "Illes_Balears_(Vino_de_la_Tierra)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Sammarinese_wine_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Stags_Leap_District_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Languedoc-Roussillon_wine_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Alella_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Pla_i_Llevant_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Méntrida_DO_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Ruwer_(wine_region)_instance",
+   "Region_Country": "Germany"
+ },
+ {
+   "uri": "Yamhill-Carlton_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Alenquer_DOC_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Benmore_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Sauternes_(wine)_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Delaware_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Columbia_Gorge_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Western_Connecticut_Highlands_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Murcia_(Vino_de_la_Tierra)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Palatinate_(wine_region)_instance",
+   "Region_Country": "Germany"
+ },
+ {
+   "uri": "Blaye_(wine)_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Moura_wine_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Mesilla_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Montrachet_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Fiddletown_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Lagos_DOC_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Naches_Heights_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Applegate_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Dominio_de_Valdepusa_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Australian_wine_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Velika_Hoča_instance",
+   "Region_Country": "Kosovo"
+ },
+ {
+   "uri": "La_Romanée_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Loire_Valley_(wine)_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Dos_Rios_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Gibbston_instance",
+   "Region_Country": "New_Zealand"
+ },
+ {
+   "uri": "Tokaj_wine_region_instance",
+   "Region_Country": "Hungary"
+ },
+ {
+   "uri": "Malaga_(wine)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "San_Lucas_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Colli_Orientali_del_Friuli_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Vino_de_calidad_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Kremstal_DAC_instance",
+   "Region_Country": "Austria"
+ },
+ {
+   "uri": "Côtes_du_Marmandais_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Riverina_wine_region_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Diablo_Grande_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Haw_River_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Ontario_wine_instance",
+   "Region_Country": "Canada"
+ },
+ {
+   "uri": "Sherry_Triangle_instance",
+   "Region_Country": "N/A"
+ },
+ {
+   "uri": "Madera_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Arizona_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Corton-Charlemagne_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Sussex_wine_instance",
+   "Region_Country": "England"
+ },
+ {
+   "uri": "Minervois_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Sonoita_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Nebraska_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Sardinian_wine_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Vouvray_(wine)_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Saale-Unstrut_instance",
+   "Region_Country": "Germany"
+ },
+ {
+   "uri": "Almansa_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Nagy-Eged_Hill_instance",
+   "Region_Country": "Hungary"
+ },
+ {
+   "uri": "Valle_del_Cinca_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Maryland_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Lake_Wisconsin_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Côte_Chalonnaise_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Romanée-Conti_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Uco_Valley_instance",
+   "Region_Country": "Argentina"
+ },
+ {
+   "uri": "Drăgășani_instance",
+   "Region_Country": "Romania"
+ },
+ {
+   "uri": "Lake_Chelan_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Cádiz_(wine_region)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Côtes-du-Rhône_Villages_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Perricoota_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Champagne_wine_region_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Pécharmant_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Saint-Joseph_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Rutherford,_California_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Fennville_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Uclés_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Graves_de_Vayres_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "McMinnville_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Mimbres_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Manchuela_DO_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Malibu_Coast_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Gaillac_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Tenuta_San_Guido_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Elqui_Valley_(wine_region)_instance",
+   "Region_Country": "Chile"
+ },
+ {
+   "uri": "Portimão_DOC_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Long_Island_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Utiel-Requena_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Spanish_wine_instance",
+   "Region_Country": "N/A"
+ },
+ {
+   "uri": "Costa_de_Cantabria_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Puisseguin-Saint-Émilion_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Bajo_Aragón_(Vino_de_la_Tierra)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Lafões_IPR_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Valençay_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Saint-Péray_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Kentucky_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Condado_de_Huelva_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Mildura_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Polish_wine_instance",
+   "Region_Country": "Polish"
+ },
+ {
+   "uri": "Pennsylvania_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Squaw_Valley-Miramonte_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Sonoma_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Lodi_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Échezeaux_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Yorkville_Highlands_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Malibu-Newton_Canyon_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Fleurieu_zone_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Ribera_del_Júcar_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Taurasi_DOCG_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Woodinville_wine_country_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Chambertin_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Alba,_Piedmont_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Pouilly-Vinzelles_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Lake_Erie_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Calabrian_wine_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Côtes_de_Gascogne_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Châteauneuf-du-Pape_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Ozark_Mountain_American_Viticultural_Area_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Portalegre_wine_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Canberra_District_wine_region_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Southern_Oregon_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Snipes_Mountain_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Margaux_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Nizza_DOCG_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Yarra_Valley_(wine)_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Torres_Vedras_DOC_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Ethiopian_wine_instance",
+   "Region_Country": "Ethiopia"
+ },
+ {
+   "uri": "Valles_de_Sadacia_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Lagoa_DOC_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Sierra_Norte_de_Sevilla_(Vino_de_la_Tierra)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Gran_Canaria_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Petzles_instance",
+   "Region_Country": "Austria"
+ },
+ {
+   "uri": "Capay_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Côtes_de_Bourg_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Formentera_(Vino_de_la_Tierra)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Tavira_DOC_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Central_Ranges_(wine)_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Swan_Creek_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Postup_(wine)_instance",
+   "Region_Country": "Croatia"
+ },
+ {
+   "uri": "Chevalier-Montrachet_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Cartaxo_wine_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Siebengebirge_(Wine_District)_instance",
+   "Region_Country": "Others"
+ },
+ {
+   "uri": "Franconia_(wine_region)_instance",
+   "Region_Country": "Germany"
+ },
+ {
+   "uri": "Etna_DOC_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Laujar-Alpujarra_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Ycoden-Daute-Isora_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Valencia_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Santarém_wine_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Bhutan_wine_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Priorat_(DOQ)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Fronton_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Clements_Hills_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Vazisubani_(wine)_instance",
+   "Region_Country": "Geogia"
+ },
+ {
+   "uri": "Thai_wine_instance",
+   "Region_Country": "Thailand"
+ },
+ {
+   "uri": "Collioure_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Coruche_(wine_region)_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Dundee_Hills_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Alaska_wine_instance",
+   "Region_Country": "Alaska"
+ },
+ {
+   "uri": "Rockpile_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Laderas_del_Genil_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Upper_Mississippi_River_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Pernand-Vergelesses_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Iowa_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Ticino_(wine_region)_instance",
+   "Region_Country": "Switzerland"
+ },
+ {
+   "uri": "Ozark_Highlands_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Massachusetts_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "New_Zealand_wine_instance",
+   "Region_Country": "New_Zealand"
+ },
+ {
+   "uri": "Empordà_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Padthaway_wine_region_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Mikulovská_wine_instance",
+   "Region_Country": "Czech"
+ },
+ {
+   "uri": "Kagor_(wine)_instance",
+   "Region_Country": "Moldova"
+ },
+ {
+   "uri": "Pine_Mountain-Cloverdale_Peak_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Mokelumne_River_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Eden_Valley_wine_region_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Danish_wine_instance",
+   "Region_Country": "Denmark"
+ },
+ {
+   "uri": "Côtes_du_Vivarais_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Duriense_VR_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Willamette_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Napa_County_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Arkansas_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Knights_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Utah_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Lenswood_wine_sub-region_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Médanos,_Buenos_Aires_instance",
+   "Region_Country": "Argentina"
+ },
+ {
+   "uri": "Maine_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Mosel_(wine_region)_instance",
+   "Region_Country": "Germany"
+ },
+ {
+   "uri": "Leona_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Russian_River_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Lancaster_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Ahr_(wine_region)_instance",
+   "Region_Country": "Germany"
+ },
+ {
+   "uri": "Bucelas_DOC_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Yakima_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Planalto_Mirandês_wine_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Ancient_Lakes_of_the_Columbia_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Franciacorta_DOCG_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Muscat_de_Rivesaltes_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Vacqueyras_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Aglianico_del_Vulture_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "New_Hampshire_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Bannockburn,_New_Zealand_instance",
+   "Region_Country": "New_Zealand"
+ },
+ {
+   "uri": "Te_Koko-o-Kupe_/_Cloudy_Bay_instance",
+   "Region_Country": "New_Zealand"
+ },
+ {
+   "uri": "Sierra_Foothills_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Upper_Hudson_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Tierra_del_Vino_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Mallorca_(Vino_de_la_Tierra)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "San_Ysidro_District_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Arbois_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "South_West_France_(wine_region)_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Észak-Dunántúl_wine_region_instance",
+   "Region_Country": "Hungary"
+ },
+ {
+   "uri": "Margaret_River,_Western_Australia_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Belgian_wine_instance",
+   "Region_Country": "Belgium"
+ },
+ {
+   "uri": "Pouilly-sur-Loire_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Hermitage_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Hudson_River_Region_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Valtellina_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Granada_(wine)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Goulburn_Valley_wine_region_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Bugey_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Mendoza_wine_instance",
+   "Region_Country": "Argentina"
+ },
+ {
+   "uri": "Pouilly-Loché_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Hunter_Valley_wine_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Southern_Fleurieu_wine_region_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Blagny_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "The_Rocks_District_of_Milton-Freewater_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Massandra_instance",
+   "Region_Country": "Crimea"
+ },
+ {
+   "uri": "Campo_de_Cartagena_(Vino_de_la_Tierra)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Koshu_Valley_instance",
+   "Region_Country": "Japan"
+ },
+ {
+   "uri": "Montefalco_Sagrantino_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Schilcherland_DAC_instance",
+   "Region_Country": "Austria"
+ },
+ {
+   "uri": "Côtes_de_Toul_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Loess_Hills_District_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Montagne_de_Reims_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Fins_Bois_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Lehigh_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Rueda_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Pannon_wine_region_instance",
+   "Region_Country": "Hungary"
+ },
+ {
+   "uri": "Montsant_DO_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Middleburg_Virginia_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Valpolicella_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Guardiolo_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Ribera_del_Jiloca_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Vin_de_Savoie_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Georgian_wine_instance",
+   "Region_Country": "Geogia"
+ },
+ {
+   "uri": "Isla_de_Menorca_(Vino_de_la_Tierra)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Texas_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Edna_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Bardolino_DOC_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Columbia_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Willow_Creek_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Central_Delaware_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Tarragona_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Finger_Lakes_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Hilltops_wine_region_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Chambertin-Clos_de_Bèze_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Württemberg_(wine_region)_instance",
+   "Region_Country": "Germany"
+ },
+ {
+   "uri": "Viré-Clessé_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Alazani_(wine)_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Breedekloof_instance",
+   "Region_Country": "South_Africa"
+ },
+ {
+   "uri": "Badacsony_wine_region_instance",
+   "Region_Country": "Hungary"
+ },
+ {
+   "uri": "Corbières_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Jahant_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Rioja_(wine)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Oklahoma_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Marino_DOC_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Tennessee_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Clos_des_Lambrays_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Saint-Pourçain_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Old_Mission_Peninsula_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Slovene_Hills_instance",
+   "Region_Country": "Austria"
+ },
+ {
+   "uri": "Hawaii_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Denominazione_di_origine_controllata_instance",
+   "Region_Country": "N/A"
+ },
+ {
+   "uri": "Western_Australian_wine_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Swan_Valley_(Western_Australia)_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Chalk_Hill_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Wrattonbully_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Upper_Goulburn_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Penfolds_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Tvishi_(wine)_instance",
+   "Region_Country": "Geogia"
+ },
+ {
+   "uri": "Touraine_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Monbazillac_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Tokaj_(Slovakia)_instance",
+   "Region_Country": "Slovakia"
+ },
+ {
+   "uri": "Faugères_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Chablis_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Southeastern_New_England_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Santa_Clara_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "South_Burnett_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Vin_de_pays_instance",
+   "Region_Country": "N/A"
+ },
+ {
+   "uri": "Petaluma_Gap_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "La_Grande_Rue_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Monterey_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Távora-Varosa_DOC_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Texas_Hill_Country_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Basilicata_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Binissalem_(DOP)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Western_Cape_wine_instance",
+   "Region_Country": "South_Africa"
+ },
+ {
+   "uri": "Castelo_Rodrigo_wine_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Maranges_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Henty_(wine)_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Namibian_wine_instance",
+   "Region_Country": "South_Africa"
+ },
+ {
+   "uri": "Nuits-Saint-Georges_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Saint-Nicolas-de-Bourgueil_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Médoc_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Marcillac_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Middle_Rio_Grande_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Bellarine_Peninsula_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Texas_Davis_Mountains_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Moon_Mountain_District_Sonoma_County_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Fixin_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "North_Yuba_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "West_Virginia_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Barolo_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Valle_de_la_Orotava_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Loramie_Creek_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Cowra_wine_region_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Moselle_wine_instance",
+   "Region_Country": "Germany"
+ },
+ {
+   "uri": "Ribera_del_Duero_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Pelee,_Ontario_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Bergerac_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Mercurey_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Vino_de_la_tierra_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Griotte-Chambertin_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Piemonte_(wine)_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "New_South_Wales_wine_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Michigan_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Cahul_(wine)_instance",
+   "Region_Country": "Moldova"
+ },
+ {
+   "uri": "Santenay_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Glenrowan_wine_region_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Crépy_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Montagny_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Wine_Country_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Niederlausitz_(wine_region)_instance",
+   "Region_Country": "Germany"
+ },
+ {
+   "uri": "Guenoc_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Gundagai_wine_region_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Lewis-Clark_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Lime_Kiln_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Tacoronte-Acentejo_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Adelaide_Plains_wine_region_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Van_Duzer_Corridor_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Kumeū_instance",
+   "Region_Country": "New_Zealand"
+ },
+ {
+   "uri": "Graves_(wine_region)_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Altus_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Bianco_di_Pitigliano_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Suisun_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Shenandoah_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Rosé_des_Riceys_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Nagyfai_instance",
+   "Region_Country": "Hungary"
+ },
+ {
+   "uri": "Rutherford_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Shoalhaven_Coast_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Toro_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Reuilly_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Colorado_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Ningxia_wine_instance",
+   "Region_Country": "China"
+ },
+ {
+   "uri": "Falerno_del_Massico_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Lower_Murray_zone_(wine)_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Montenegrin_wine_instance",
+   "Region_Country": "Others"
+ },
+ {
+   "uri": "Lisboa_VR_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Chehalem_Mountains_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Santorini_(wine)_instance",
+   "Region_Country": "Greece"
+ },
+ {
+   "uri": "Palestinian_wine_instance",
+   "Region_Country": "Palestine"
+ },
+ {
+   "uri": "Hames_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Valpaços_wine_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Martha's_Vineyard_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Musigny_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Sunbury_wine_region_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Colline_Lucchesi_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Córdoba_(Vino_de_la_Tierra)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Burgundy_wine_instance",
+   "Region_Country": "N/A"
+ },
+ {
+   "uri": "New_World_wine_instance",
+   "Region_Country": "N/A"
+ },
+ {
+   "uri": "German_wine_instance",
+   "Region_Country": "N/A"
+ },
+ {
+   "uri": "Wisconsin_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Montecarlo_DOC_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Lebanese_wine_instance",
+   "Region_Country": "Lebanon"
+ },
+ {
+   "uri": "Barakoni_wine_instance",
+   "Region_Country": "Geogia"
+ },
+ {
+   "uri": "Saumur_(wine)_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Clos_de_la_Coulée_de_Serrant_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Savennières_wine_instance",
+   "Region_Country": "N/A"
+ },
+ {
+   "uri": "Horse_Heaven_Hills_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Cucamonga_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Friuli_Grave_DOC_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Douro_DOC_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Langhe_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Monterrei_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Altiplano_de_Sierra_Nevada_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Romanian_wine_instance",
+   "Region_Country": "Romania"
+ },
+ {
+   "uri": "Outer_Coastal_Plain_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Minho_VR_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Château-Grillet_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Kelsey_Bench-Lake_County_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "California_Shenandoah_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Huailai_County_instance",
+   "Region_Country": "China"
+ },
+ {
+   "uri": "Parrina_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Saussignac_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Baja_California_wine_industry_instance",
+   "Region_Country": "Mexico"
+ },
+ {
+   "uri": "Rutherglen_wine_region_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Saddle_Rock-Malibu_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Arroyo_Grande_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Argentine_wine_instance",
+   "Region_Country": "Argentina"
+ },
+ {
+   "uri": "Rattlesnake_Hills_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Côtes_de_Duras_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Catalunya_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Anjou_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Târnave_wine_region_instance",
+   "Region_Country": "Romania"
+ },
+ {
+   "uri": "Haut-Médoc_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Big_Rivers_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Blackwood_Valley_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Ohio_River_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Frontignan_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Big_Valley_District-Lake_County_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Cinque_Terre_DOC_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Barossa_Valley_(wine)_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "San_Francisco_Bay_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Sierra_de_Salamanca_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Falerio_dei_Colli_Ascolani_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Augusta_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Clos_Saint-Denis_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Howell_Mountain_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Wine_of_the_United_States_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Nyilas-már_instance",
+   "Region_Country": "Hungary"
+ },
+ {
+   "uri": "Chalosse_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Pacheco_Pass_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Southern_Flinders_Ranges_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Solano_County_Green_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Atlas_Peak_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "New_Jersey_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Terras_Madeirenses_VR_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Texoma_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Cigales_(wine)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Sierra_de_Alcaraz_(Vino_de_la_Tierra)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Tualatin_Hills_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Cheverny_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Czech_wine_instance",
+   "Region_Country": "Czech"
+ },
+ {
+   "uri": "Cornas_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Guijoso_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Valles_de_Benavente_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Cuyo_(Argentina)_instance",
+   "Region_Country": "Argentina"
+ },
+ {
+   "uri": "Gevrey-Chambertin_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Cole_Ranch_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Adelaide_Hills_wine_region_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Acqui_Terme_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Grand_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Balatonboglár_wine_region_instance",
+   "Region_Country": "Hungary"
+ },
+ {
+   "uri": "Liechtenstein_wine_instance",
+   "Region_Country": "N/A"
+ },
+ {
+   "uri": "Crozes-Hermitage_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Southern_Chile_(wine_region)_instance",
+   "Region_Country": "Chile"
+ },
+ {
+   "uri": "Morellino_di_Scansano_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Grampians_(wine)_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "La_Gomera_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Mount_Lofty_Ranges_zone_(wine)_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Alabama_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "York_Mountain_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "The_Hamptons,_Long_Island_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Isle_St._George_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Akhasheni_instance",
+   "Region_Country": "Georgia"
+ },
+ {
+   "uri": "Galician_wine_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Egyptian_wine_instance",
+   "Region_Country": "Egypt"
+ },
+ {
+   "uri": "Jasnières_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Oak_Knoll_District_of_Napa_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Txakoli_de_Álava_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Kangaroo_Island_wine_region_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Wyoming_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Japanese_wine_instance",
+   "Region_Country": "Japan"
+ },
+ {
+   "uri": "River_Junction_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Nashik_valley_wine_instance",
+   "Region_Country": "Others"
+ },
+ {
+   "uri": "Frascati_DOC_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Alcobaça_wine_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Cienega_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Indian_wine_instance",
+   "Region_Country": "India"
+ },
+ {
+   "uri": "Eger_wine_region_instance",
+   "Region_Country": "Hungary"
+ },
+ {
+   "uri": "Mělnická_wine_instance",
+   "Region_Country": "Others"
+ },
+ {
+   "uri": "Sonoma_County,_California_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Soave,_Veneto_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Norte_de_Almería_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Alsace_wine_instance",
+   "Region_Country": "N/A"
+ },
+ {
+   "uri": "Arroyo_Seco_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Canelli_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Açores_VR_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Rhode_Island_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Pozohondo_(Vino_de_la_Tierra)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Collio_Goriziano_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Entre-Deux-Mers_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Santa_Cruz_Mountains_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Lanzarote_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Provence_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Quincy_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Kansas_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Amarone_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Cumbres_del_Guadalfeo_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Kenwood,_California_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Taiwanese_wine_instance",
+   "Region_Country": "China"
+ },
+ {
+   "uri": "Valdeorras_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Extremadura_(Vino_de_la_Tierra)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Gattinara_DOCG_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Stargarder_Land_(wine_region)_instance",
+   "Region_Country": "Germany"
+ },
+ {
+   "uri": "Maury_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Luxembourg_wine_instance",
+   "Region_Country": "Germany"
+ },
+ {
+   "uri": "Borba_wine_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Touraine-Amboise_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Lirac_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Bouzeron_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Languedoc-Roussillon_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Kurow_instance",
+   "Region_Country": "New_Zealand"
+ },
+ {
+   "uri": "Chambolle-Musigny_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Bailén_(Vino_de_la_Tierra)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Connecticut_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Barossa_zone_(wine)_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Covelo_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Rully_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Saint-Émilion_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Langhorne_Creek_wine_region_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Los_Olivos_District_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Mittelrhein_(wine_region)_instance",
+   "Region_Country": "Germany"
+ },
+ {
+   "uri": "Laurelwood_District_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Graciosa_IPR_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Palette_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Bairrada_DOC_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Puligny-Montrachet_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Abruzzo_(wine)_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Croatian_wine_instance",
+   "Region_Country": "Croatia"
+ },
+ {
+   "uri": "Nova_Scotia_wine_instance",
+   "Region_Country": "Canada"
+ },
+ {
+   "uri": "KwaZulu-Natal_wine_instance",
+   "Region_Country": "South_Africa"
+ },
+ {
+   "uri": "Castilla_y_León_(Vino_de_la_Tierra)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Ansonica_Costa_dell'Argentario_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "La_Palma_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Sonoma_County_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Vinho_Verde_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Traisental_instance",
+   "Region_Country": "Austria"
+ },
+ {
+   "uri": "Marlborough_wine_region_instance",
+   "Region_Country": "New_Zealand"
+ },
+ {
+   "uri": "Lebrija_(wine_classification)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Saint-Estèphe_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "South_Tyrol_wine_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Uruguayan_wine_instance",
+   "Region_Country": "Uruguay"
+ },
+ {
+   "uri": "Cairanne_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Sicily_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Austrian_wine_instance",
+   "Region_Country": "Austria"
+ },
+ {
+   "uri": "St._Helena_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Victorian_wine_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Red_Hill_Douglas_County,_Oregon_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Sonoma_Mountain_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Mexican_wine_instance",
+   "Region_Country": "Mexico"
+ },
+ {
+   "uri": "Valle_d'Aosta_DOC_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Tip_of_the_Mitt_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Alexandria_Lakes_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Linganore_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "North_Dakota_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Desierto_de_Almería_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Marçon_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Alexander_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Península_de_Setúbal_VR_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Catalan_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Orléans_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Ribera_del_Gállego-Cinco_Villas_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Lake_Michigan_Shore_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Buenos_Aires_wines_instance",
+   "Region_Country": "Others"
+ },
+ {
+   "uri": "Salado_Creek_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Grignan-Les_Adhemar_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Monticello_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Granja-Amareleja_wine_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Louisiana_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Hermann_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Côtes_Catalanes_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Los_Carneros_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Canadian_wine_instance",
+   "Region_Country": "Canada"
+ },
+ {
+   "uri": "Okanagan_Valley_(wine_region)_instance",
+   "Region_Country": "New_ Zealand"
+ },
+ {
+   "uri": "Hessische_Bergstraße_instance",
+   "Region_Country": "Germany"
+ },
+ {
+   "uri": "Tumbarumba_wine_region_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Hawke's_Bay_wine_region_instance",
+   "Region_Country": "New_Zealand"
+ },
+ {
+   "uri": "Murray_Darling_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Conca_de_Barberà_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Richebourg_(wine)_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Liguria_wine_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Malvasia_di_Castelnuovo_Don_Bosco_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Coonawarra_wine_region_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Sainte-Croix-du-Mont_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Colli_Maceratesi_DOC_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Far_North_zone_(wine)_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Santa_Maria_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Grands_Échezeaux_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Tunisian_wine_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Riverland_wine_region_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "San_Antonio_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Tasmanian_wine_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Balaton_wine_region_instance",
+   "Region_Country": "Hungary"
+ },
+ {
+   "uri": "Ballard_Canyon_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Ribbon_Ridge_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Ramandolo_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Coteaux_Bourguignons_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Red_Mountain_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Ladoix_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Austral_(wine_region)_instance",
+   "Region_Country": "Chile"
+ },
+ {
+   "uri": "Pomerol_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Anderson_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Valdepeñas_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Rogue_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Missouri_Rhineland_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Rías_Baixas_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Rhône_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Rosso_Barletta_DOC_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Chinon_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Appellation_d'origine_contrôlée_instance",
+   "Region_Country": "N/A"
+ },
+ {
+   "uri": "Sierra_Pelona_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Colli_Piacentini_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Latricières-Chambertin_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Texas_High_Plains_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Soave_(wine)_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Betanzos_(Vino_de_la_Tierra)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Bonnes_Mares_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Walla_Walla_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Italian_wine_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Fredericksburg_in_the_Texas_Hill_Country_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Vermont_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Albanian_wine_instance",
+   "Region_Country": "Albania"
+ },
+ {
+   "uri": "Lacrima_di_Morro_d'Alba_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Cape_May_Peninsula_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Algerian_wine_instance",
+   "Region_Country": "Algeria"
+ },
+ {
+   "uri": "Calatayud_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Tierra_de_León_(DO)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "High_Eden_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Warren_Hills_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "South_African_wine_instance",
+   "Region_Country": "South_Africa"
+ },
+ {
+   "uri": "South_Carolina_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Romagna_Albana_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Rheinhessen_(wine_region)_instance",
+   "Region_Country": "Germany"
+ },
+ {
+   "uri": "Costières_de_Nîmes_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Ventoux_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Robe_wine_region_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Yadkin_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "South_Coast_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Côte_d'Or_(escarpment)_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Livermore_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Saint-Georges-Saint-Émilion_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Alsace_wine_region_instance",
+   "Region_Country": "N/A"
+ },
+ {
+   "uri": "Vinos_de_Madrid_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Puget_Sound_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Reguengos_wine_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Pla_de_Bages_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Lavaux_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Chamusca_wine_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Vougeot_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Maule_River_instance",
+   "Region_Country": "Chile"
+ },
+ {
+   "uri": "Ibiza_(Vino_de_la_Tierra)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Tomar_wine_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Alentejo_wine_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Friuli-Venezia_Giulia_wine_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Alsace_Grand_Cru_AOC_instance",
+   "Region_Country": "N/A"
+ },
+ {
+   "uri": "Bourgueil_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Marsannay_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Northland_Region_instance",
+   "Region_Country": "New_Zealand"
+ },
+ {
+   "uri": "Rivesaltes_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Colli_di_Luni_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Sta._Rita_Hills_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Madiran_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Islas_Canarias_(Vino_de_la_Tierra)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Oakville,_California_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Montana_wine_instance",
+   "Region_Country": "New_Zealand"
+ },
+ {
+   "uri": "Fronsac_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Hautes-Côtes_de_Beaune_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Orange_wine_region_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Tupungato_Department_instance",
+   "Region_Country": "Argentina"
+ },
+ {
+   "uri": "Portuguese_wine_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Tierra_del_Vino_de_Zamora_DO_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Abanilla_(Vino_de_la_Tierra)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Central_Valley_(Chilean_wine_region)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Bennett_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Villány_instance",
+   "Region_Country": "Hungary"
+ },
+ {
+   "uri": "Castilla_(Vino_de_la_Tierra)_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Luberon_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Alpine_Valleys_instance",
+   "Region_Country": "Australia"
+ },
+ {
+   "uri": "Asti_wine_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Chaves_wine_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Chassagne-Montrachet_wine_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Clairet_instance",
+   "Region_Country": "N/A"
+ },
+ {
+   "uri": "Eagle_Foothills_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Clear_Lake_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Redondo_wine_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Baden_(wine_region)_instance",
+   "Region_Country": "Germany"
+ },
+ {
+   "uri": "Carmignano_DOCG_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Navarra_(DO)_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Cosumnes_River_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Bell_Mountain_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Clos_de_la_Roche_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Nahe_(wine_region)_instance",
+   "Region_Country": "Germany"
+ },
+ {
+   "uri": "Mississippi_wine_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Schoenenbourg_(grand_cru)_instance",
+   "Region_Country": "Others"
+ },
+ {
+   "uri": "Vallée_de_la_Marne_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Campo_de_Cariñena_instance",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Bianchello_del_Metauro_instance",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "La_Tâche_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Azerbaijani_wine_instance",
+   "Region_Country": "Other"
+ },
+ {
+   "uri": "Beira_Interior_DOC_instance",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "West_Elks_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Quebec_wine_instance",
+   "Region_Country": "Canada"
+ },
+ {
+   "uri": "Santa_Ynez_Valley_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Indiana_Uplands_AVA_instance",
+   "Region_Country": "USA"
+ },
+ {
+   "uri": "Saint-Julien_AOC_instance",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Mondéjar_(DO)_instance",
+   "Region_Country": "Spain"
+ }
+]
