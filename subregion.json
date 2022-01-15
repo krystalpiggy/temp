@@ -1,0 +1,662 @@
+[
+ {
+   "uri": "Kamptal_instance",
+   "Region_Name": "Kamptal",
+   "Region_subRegion": "Kamptal",
+   "Region_Country": "Austria"
+ },
+ {
+   "uri": "Kremstal_instance",
+   "Region_Name": "Kremstal",
+   "Region_subRegion": "Kremstal",
+   "Region_Country": "Austria"
+ },
+ {
+   "uri": "Wachau_wine_instance",
+   "Region_Name": "Wachau",
+   "Region_subRegion": "Wachau",
+   "Region_Country": "Austria"
+ },
+ {
+   "uri": "Cahors_wine_instance",
+   "Region_Name": "Cahors",
+   "Region_subRegion": "South West",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Mâconnais_instance",
+   "Region_Name": "Maconnais",
+   "Region_subRegion": "Burgundy",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Limoux_wine_instance",
+   "Region_Name": "Limoux",
+   "Region_subRegion": "Languedoc-Roussillon",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Pouilly-Fuissé_instance",
+   "Region_Name": "Pouilly Fuisse",
+   "Region_subRegion": "Burgundy",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Bourgogne_Aligoté_AOC_instance",
+   "Region_Name": "Bourgogne Aligote",
+   "Region_subRegion": "Burgundy",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Condrieu_AOC_instance",
+   "Region_Name": "Condrieu",
+   "Region_subRegion": "Rhone",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Banyuls_AOC_instance",
+   "Region_Name": "Banyuls",
+   "Region_subRegion": "Languedoc-Roussillon",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Côte_de_Beaune_instance",
+   "Region_Name": "Cote de Beaune",
+   "Region_subRegion": "Burgundy",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Côtes_du_Rhône_AOC_instance",
+   "Region_Name": "Cotes du Rhone",
+   "Region_subRegion": "Rhone",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Pommard_wine_instance",
+   "Region_Name": "Pommard",
+   "Region_subRegion": "Burgundy",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Tavel_AOC_instance",
+   "Region_Name": "Tavel",
+   "Region_subRegion": "Rhone",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Morey-Saint-Denis_wine_instance",
+   "Region_Name": "Morey Saint Denis",
+   "Region_subRegion": "Burgundy",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Saint-Aubin_wine_instance",
+   "Region_Name": "Saint Aubin",
+   "Region_subRegion": "Burgundy",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Coteaux_du_Layon_instance",
+   "Region_Name": "Coteaux du Layon",
+   "Region_subRegion": "Loire",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Bordeaux_wine_instance",
+   "Region_Name": "Bordeaux",
+   "Region_subRegion": "Bordeaux",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Gigondas_AOC_instance",
+   "Region_Name": "Gigondas",
+   "Region_subRegion": "Rhone",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Sancerre_(wine)_instance",
+   "Region_Name": "Sancerre",
+   "Region_subRegion": "Loire",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Savoy_wine_instance",
+   "Region_Name": "Savoy",
+   "Region_subRegion": "Savoie",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Beaune_wine_instance",
+   "Region_Name": "Beaune",
+   "Region_subRegion": "Burgundy",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Beaujolais_instance",
+   "Region_Name": "Beaujolais",
+   "Region_subRegion": "Beaujolais",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Pouilly-Fumé_instance",
+   "Region_Name": "Pouilly-Fume",
+   "Region_subRegion": "Loire",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Côte_de_Nuits_instance",
+   "Region_Name": "Cote de Nuits",
+   "Region_subRegion": "Burgundy",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Côte-Rôtie_AOC_instance",
+   "Region_Name": "Cote-Rotie",
+   "Region_subRegion": "Rhone",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Sauternes_(wine)_instance",
+   "Region_Name": "Sauternes",
+   "Region_subRegion": "Bordeaux",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Loire_Valley_(wine)_instance",
+   "Region_Name": "Loire Valley",
+   "Region_subRegion": "Loire",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Minervois_AOC_instance",
+   "Region_Name": "Minervois",
+   "Region_subRegion": "Languedoc-Roussillon",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Châteauneuf-du-Pape_AOC_instance",
+   "Region_Name": "Chateauneuf-du-Pape",
+   "Region_subRegion": "Rhone",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Fronton_AOC_instance",
+   "Region_Name": "Fronton",
+   "Region_subRegion": "South West",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Muscat_de_Rivesaltes_AOC_instance",
+   "Region_Name": "Muscat de Rivesaltes",
+   "Region_subRegion": "Languedoc-Roussillon",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Arbois_instance",
+   "Region_Name": "Arbois",
+   "Region_subRegion": "Jura",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Côtes_de_Toul_instance",
+   "Region_Name": "Cotes de Toul",
+   "Region_subRegion": "Alsace",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Touraine_AOC_instance",
+   "Region_Name": "Touraine",
+   "Region_subRegion": "Loire",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Monbazillac_AOC_instance",
+   "Region_Name": "Monbazillac",
+   "Region_subRegion": "South West",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Chablis_wine_instance",
+   "Region_Name": "Chablis",
+   "Region_subRegion": "Burgundy",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Médoc_AOC_instance",
+   "Region_Name": "Medoc",
+   "Region_subRegion": "Bordeaux",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Graves_(wine_region)_instance",
+   "Region_Name": "Graves",
+   "Region_subRegion": "Bordeaux",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Haut-Médoc_AOC_instance",
+   "Region_Name": "Haut-Medoc",
+   "Region_subRegion": "Bordeaux",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Frontignan_instance",
+   "Region_Name": "Frontignan",
+   "Region_subRegion": "Languedoc-Roussillon",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Entre-Deux-Mers_instance",
+   "Region_Name": "Entre-Deux-Mers",
+   "Region_subRegion": "Bordeaux",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Provence_wine_instance",
+   "Region_Name": "Provence",
+   "Region_subRegion": "Provence",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Maury_AOC_instance",
+   "Region_Name": "Maury",
+   "Region_subRegion": "Languedoc-Roussillon",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Languedoc-Roussillon_instance",
+   "Region_Name": "Languedoc-Roussillon",
+   "Region_subRegion": "Languedoc-Roussillon",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Saint-Émilion_AOC_instance",
+   "Region_Name": "Saint-emilion",
+   "Region_subRegion": "Bordeaux",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Rhône_wine_instance",
+   "Region_Name": "Rhone",
+   "Region_subRegion": "Rhone",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Chinon_AOC_instance",
+   "Region_Name": "Chinon",
+   "Region_subRegion": "Loire",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Côte_d'Or_(escarpment)_instance",
+   "Region_Name": "Cote d'Or",
+   "Region_subRegion": "Burgundy",
+   "Region_Country": "France"
+ },
+ {
+   "uri": "Rheingau_(wine_region)_instance",
+   "Region_Name": "Rheingau",
+   "Region_subRegion": "Rheingau",
+   "Region_Country": "Germany"
+ },
+ {
+   "uri": "Ruwer_(wine_region)_instance",
+   "Region_Name": "Ruwer",
+   "Region_subRegion": "Mosel",
+   "Region_Country": "Germany"
+ },
+ {
+   "uri": "Mosel_(wine_region)_instance",
+   "Region_Name": "Mosel",
+   "Region_subRegion": "Mosel",
+   "Region_Country": "Germany"
+ },
+ {
+   "uri": "Baden_(wine_region)_instance",
+   "Region_Name": "Baden",
+   "Region_subRegion": "Baden",
+   "Region_Country": "Germany"
+ },
+ {
+   "uri": "Tokaji_instance",
+   "Region_Name": "Tokaji",
+   "Region_subRegion": "Tokaji",
+   "Region_Country": "Hungry"
+ },
+ {
+   "uri": "Campania_instance",
+   "Region_Name": "Campania",
+   "Region_subRegion": "Campania",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Apulia_instance",
+   "Region_Name": "Apulia",
+   "Region_subRegion": "Pulia",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Tuscan_wine_instance",
+   "Region_Name": "Tuscan",
+   "Region_subRegion": "Tuscany",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Chianti_(region)_instance",
+   "Region_Name": "Chianti",
+   "Region_subRegion": "Tuscany",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Barbaresco_instance",
+   "Region_Name": "Barbaresco",
+   "Region_subRegion": "Piemonte",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Brunello_di_Montalcino_instance",
+   "Region_Name": "Brunello di Montalcino",
+   "Region_subRegion": "Tuscany",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Trento_DOC_instance",
+   "Region_Name": "Trento",
+   "Region_subRegion": "Trentino-Alto Adige",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Lombardia_(wine)_instance",
+   "Region_Name": "Lombardia",
+   "Region_subRegion": "Lombardy",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Moscato_d'Asti_instance",
+   "Region_Name": "Moscato d'Asti",
+   "Region_subRegion": "Piemonte",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Orvieto_DOC_instance",
+   "Region_Name": "Orvieto",
+   "Region_subRegion": "Lazio",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Montefalco_DOC_instance",
+   "Region_Name": "Montefalco",
+   "Region_subRegion": "Umbria",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Sardinian_wine_instance",
+   "Region_Name": "Sardinian",
+   "Region_subRegion": "Sardinia",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Taurasi_DOCG_instance",
+   "Region_Name": "Taurasi",
+   "Region_subRegion": "Campania",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Calabrian_wine_instance",
+   "Region_Name": "Calabria",
+   "Region_subRegion": "Calabria",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Etna_DOC_instance",
+   "Region_Name": "Etna",
+   "Region_subRegion": "Sicily",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Valpolicella_instance",
+   "Region_Name": "Valpolicella",
+   "Region_subRegion": "Veneto",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Bardolino_DOC_instance",
+   "Region_Name": "Bardolino",
+   "Region_subRegion": "Veneto",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Basilicata_instance",
+   "Region_Name": "Basilicata",
+   "Region_subRegion": "Basilicata",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Barolo_instance",
+   "Region_Name": "Barolo",
+   "Region_subRegion": "Piemonte",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Piemonte_(wine)_instance",
+   "Region_Name": "Piemonte",
+   "Region_subRegion": "Piemonte",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Langhe_instance",
+   "Region_Name": "Langhe",
+   "Region_subRegion": "Piemonte",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Falerio_dei_Colli_Ascolani_instance",
+   "Region_Name": "Falerio dei Colli Ascolani",
+   "Region_subRegion": "Marche",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Soave,_Veneto_instance",
+   "Region_Name": "Soave Veneto",
+   "Region_subRegion": "Veneto",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Amarone_instance",
+   "Region_Name": "Amarone",
+   "Region_subRegion": "Veneto",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Abruzzo_(wine)_instance",
+   "Region_Name": "Abruzzo",
+   "Region_subRegion": "Abruzzo",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Sicily_instance",
+   "Region_Name": "Sicily",
+   "Region_subRegion": "Sicily",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Romagna_Albana_instance",
+   "Region_Name": "Romagna Albana",
+   "Region_subRegion": "Emilia-Romagna",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Friuli-Venezia_Giulia_wine_instance",
+   "Region_Name": "Friuli-Venezia Giulia",
+   "Region_subRegion": "Friuli-Venezia Giulia",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Asti_wine_instance",
+   "Region_Name": "Asti",
+   "Region_subRegion": "Piemonte",
+   "Region_Country": "Italy"
+ },
+ {
+   "uri": "Getariako_Txakolina_instance",
+   "Region_Name": "Getariako Txakolina",
+   "Region_subRegion": "Pais Vasco",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Campo_de_Borja_(DO)_instance",
+   "Region_Name": "Campo de Borja",
+   "Region_subRegion": "Aragon",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Montilla-Moriles_instance",
+   "Region_Name": "Montilla-Moriles",
+   "Region_subRegion": "Andalusia",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Alicante_(DO)_instance",
+   "Region_Name": "Alicante",
+   "Region_subRegion": "Valencia",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Tejo_VR_instance",
+   "Region_Name": "Tejo",
+   "Region_subRegion": "Tejo",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Ribeiro_(DO)_instance",
+   "Region_Name": "Ribeiro",
+   "Region_subRegion": "Galicia",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Bierzo_(DO)_instance",
+   "Region_Name": "Bierzo",
+   "Region_subRegion": "Bierzo",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Yecla_(DO)_instance",
+   "Region_Name": "Yecla",
+   "Region_subRegion": "Murcia",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Penedès_(DO)_instance",
+   "Region_Name": "Penedes",
+   "Region_subRegion": "Catalonia",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Cariñena_(DO)_instance",
+   "Region_Name": "Carinena",
+   "Region_subRegion": "Aragon",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "La_Mancha_(DO)_instance",
+   "Region_Name": "La Mancha",
+   "Region_subRegion": "Castilla-La Mancha",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Jumilla_(DO)_instance",
+   "Region_Name": "Jumilla",
+   "Region_subRegion": "Murcia",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Méntrida_DO_instance",
+   "Region_Name": "Mentrida",
+   "Region_subRegion": "Castilla-La Mancha",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Murcia_(Vino_de_la_Tierra)_instance",
+   "Region_Name": "Murcia",
+   "Region_subRegion": "Murcia",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Valencia_(DO)_instance",
+   "Region_Name": "Valencia",
+   "Region_subRegion": "Valencia",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Priorat_(DOQ)_instance",
+   "Region_Name": "Priorat",
+   "Region_subRegion": "Priorat",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Rueda_(DO)_instance",
+   "Region_Name": "Rueda",
+   "Region_subRegion": "Castilla y Leon",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Tarragona_(DO)_instance",
+   "Region_Name": "Tarragona",
+   "Region_subRegion": "Catalonia",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Rioja_(wine)_instance",
+   "Region_Name": "Rioja",
+   "Region_subRegion": "Rioja",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Ribera_del_Duero_instance",
+   "Region_Name": "Ribera del Duero",
+   "Region_subRegion": "Castilla y Leon",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Toro_(DO)_instance",
+   "Region_Name": "Toro",
+   "Region_subRegion": "Toro",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Catalunya_(DO)_instance",
+   "Region_Name": "Catalunya",
+   "Region_subRegion": "Catalonia",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Rías_Baixas_(DO)_instance",
+   "Region_Name": "Rias Baixas",
+   "Region_subRegion": "Galicia",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Tierra_de_León_(DO)_instance",
+   "Region_Name": "Tierra de Leon",
+   "Region_subRegion": "Castilla y Leon",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Vinos_de_Madrid_instance",
+   "Region_Name": "Vinos de Madrid",
+   "Region_subRegion": "Madrid",
+   "Region_Country": "Spain"
+ },
+ {
+   "uri": "Douro_DOC_instance",
+   "Region_Name": "Douro",
+   "Region_subRegion": "Douro",
+   "Region_Country": "Portugal"
+ },
+ {
+   "uri": "Vinho_Verde_instance",
+   "Region_Name": "Vinho Verde",
+   "Region_subRegion": "Vinho Verde",
+   "Region_Country": "Portugal"
+ }
+]
