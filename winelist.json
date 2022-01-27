@@ -178,7 +178,7 @@
    "ws_link": "https://www.wine-searcher.com/find/dom+weinbach+gewurz+cuvee+lawrence+alsace+france/1/usa",
    "price": 51,
    "ws_rating": 3.5,
-   "grape": "Gewuztraminer",
+   "grape": "Gewurztraminer",
    "classic": 3
  },
  {
@@ -399,7 +399,7 @@
    "ws_link": "https://www.wine-searcher.com/find/herdade+esporao+rsrv+alentejo+portugal/1/usa",
    "price": 22,
    "ws_rating": 3.5,
-   "grape": "Aragones",
+   "grape": "Tempranillo",
    "classic": 4
  },
  {
@@ -516,7 +516,7 @@
    "ws_link": "https://www.wine-searcher.com/find/dom+anne+gros+jean+paul+tollot+la+ciaude+minervois+languedoc+roussillon+france/1/usa#t2",
    "price": 38,
    "ws_rating": 3.5,
-   "grape": "Carignan",
+   "grape": "Cinsaut",
    "classic": 4
  },
  {
@@ -828,7 +828,7 @@
    "ws_link": "https://www.wine-searcher.com/find/bader+mimeur+de+blanc+cote+beaune+chass+montrachet+burgundy+france/1/usa",
    "price": 55,
    "ws_rating": 4,
-   "grape": "Chardonnay -­‐ Oak",
+   "grape": "Chardonnay",
    "classic": 5
  },
  {
