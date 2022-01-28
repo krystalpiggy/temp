@@ -1,0 +1,314 @@
+[
+ {
+   "page": {
+      "grape": {
+         "id": 51,
+         "grape_variety": "Cortese",
+         "wine_type": "White Wine",
+         "colour": "Lemon",
+         "aroma_type": "Neutral",
+         "style": [
+            "Crisp and Fresh",
+            "Smooth and Medium",
+            ""
+         ],
+         "acidity": "Very High Acidity",
+         "acidity_level": 10,
+         "body": "Medium (+) Body",
+         "body_level": 7,
+         "tannin": "No Tannin",
+         "tannin_level": 3,
+         "aging_potential": 10
+      }
+   },
+   "uri": "",
+   "classic": 5,
+   "oak": 1
+},
+ {
+   "page": {
+      "grape": {
+         "id": 52,
+         "grape_variety": "Falanghina",
+         "wine_type": "White Wine",
+         "colour": "Pale Lemon Green",
+         "aroma_type": "Semi-Aromatic",
+         "style": [
+            "Crisp and Fresh",
+            "",
+            ""
+         ],
+         "acidity": "High Acidity",
+         "acidity_level": 9,
+         "body": "Medium (+) Body",
+         "body_level": 7,
+         "tannin": "No Tannin",
+         "tannin_level": 5,
+         "aging_potential": 10
+      }
+   },
+   "uri": "",
+   "classic": 3,
+   "oak": 0
+},
+ {
+   "page": {
+      "grape": {
+         "id": 53,
+         "grape_variety": "Fiano",
+         "wine_type": "White Wine",
+         "colour": "Lemon",
+         "aroma_type": "Semi-Aromatic",
+         "style": [
+            "Crisp and Fresh",
+            "Smooth and Medium",
+            "Rich and Full"
+         ],
+         "acidity": "Medium (+) Acidity",
+         "acidity_level": 7,
+         "body": "Medium (+) Body",
+         "body_level": 7,
+         "tannin": "No Tannin",
+         "tannin_level": 5,
+         "aging_potential": 10
+      }
+   },
+   "uri": "",
+   "classic": 3,
+   "oak": 0
+},
+ {
+   "page": {
+      "grape": {
+         "id": 92,
+         "grape_variety": "Gaglioppo",
+         "wine_type": "Red Wine",
+         "colour": "Medium Purple",
+         "aroma_type": "Black Fruits",
+         "style": [
+            "Light and Fruity",
+            "Smooth and Medium",
+            ""
+         ],
+         "acidity": "High Acidity",
+         "acidity_level": 8,
+         "body": "Medium body",
+         "body_level": 5,
+         "tannin": "Medium (-) Tannin",
+         "tannin_level": 3.5,
+         "aging_potential": 2
+      }
+   },
+   "uri": "Gaglioppo_instance",
+   "classic": 1,
+   "oak": 7
+},
+ {
+   "page": {
+      "grape": {
+         "id": 93,
+         "grape_variety": "Palomino",
+         "wine_type": "White Wine",
+         "colour": "Lemon",
+         "aroma_type": "Neutral",
+         "style": [
+            "Smooth and Medium",
+            "",
+            ""
+         ],
+         "acidity": "Low Acidity",
+         "acidity_level": 2,
+         "body": "Medium body",
+         "body_level": 5,
+         "tannin": "No Tannin",
+         "tannin_level": 3,
+         "aging_potential": 3
+      }
+   },
+   "uri": "Palomino_instance",
+   "classic": 3,
+   "oak": 1
+},
+ {
+   "page": {
+      "grape": {
+         "id": 94,
+         "grape_variety": "Mencia",
+         "wine_type": "Red Wine",
+         "colour": "Pale Ruby",
+         "aroma_type": "Black Fruits",
+         "style": [
+            "Smooth and Medium",
+            "Rich and Full",
+            ""
+         ],
+         "acidity": "High Acidity",
+         "acidity_level": 9,
+         "body": "Full Body",
+         "body_level": 7.5,
+         "tannin": "Medium (+) Tannin",
+         "tannin_level": 7,
+         "aging_potential": 8
+      }
+   },
+   "uri": "Mencía_(grape)_instance",
+   "classic": 5,
+   "oak": 9
+},
+ {
+   "page": {
+      "grape": {
+         "id": 95,
+         "grape_variety": "Tannat",
+         "wine_type": "Red Wine",
+         "colour": "Deep Purple",
+         "aroma_type": "Black Fruits",
+         "style": [
+            "Rich and Full",
+            "",
+            ""
+         ],
+         "acidity": "Medium (+) Acidity",
+         "acidity_level": 6,
+         "body": "Full Body",
+         "body_level": 8.5,
+         "tannin": "High Tannin",
+         "tannin_level": 10,
+         "aging_potential": 5
+      }
+   },
+   "uri": "Tannat_instance",
+   "classic": 5,
+   "oak": 10
+},
+ {
+   "page": {
+      "grape": {
+         "id": 96,
+         "grape_variety": "Poulsard",
+         "wine_type": "Red Wine",
+         "colour": "Light Ruby",
+         "aroma_type": "Red Fruits",
+         "style": [
+            "Light and Fruity",
+            "",
+            ""
+         ],
+         "acidity": "High Acidity",
+         "acidity_level": 8,
+         "body": "Medium (-) Body",
+         "body_level": 4,
+         "tannin": "Low Tannin",
+         "tannin_level": 3,
+         "aging_potential": 3
+      }
+   },
+   "uri": "Poulsard_instance",
+   "classic": 2,
+   "oak": 4
+},
+ {
+   "page": {
+      "grape": {
+         "id": 97,
+         "grape_variety": "Malvasia",
+         "wine_type": "White Wine",
+         "colour": "Lemon",
+         "aroma_type": "Aromatic",
+         "style": [
+            "Smooth and Medium",
+            "",
+            ""
+         ],
+         "acidity": "High Acidity",
+         "acidity_level": 9.5,
+         "body": "Medium Body",
+         "body_level": 5.5,
+         "tannin": "No Tannin",
+         "tannin_level": 7,
+         "aging_potential": 5
+      }
+   },
+   "uri": "Malvasia_instance",
+   "classic": 4,
+   "oak": 1
+},
+ {
+   "page": {
+      "grape": {
+         "id": 98,
+         "grape_variety": "Hondarrabi Zuri",
+         "wine_type": "White Wine",
+         "colour": "Pale Lemon Green",
+         "aroma_type": "Aromatic",
+         "style": [
+            "Crisp and Fresh",
+            "",
+            ""
+         ],
+         "acidity": "High Acidity",
+         "acidity_level": 9,
+         "body": "Medium (-) Body",
+         "body_level": 3.5,
+         "tannin": "No Tannin",
+         "tannin_level": 4,
+         "aging_potential": 1
+      }
+   },
+   "uri": "Hondarrabi_Zuri_instance",
+   "classic": 1,
+   "oak": 0
+},
+ {
+   "page": {
+      "grape": {
+         "id": 99,
+         "grape_variety": "Sagrantino",
+         "wine_type": "Red Wine",
+         "colour": "Deep Purple",
+         "aroma_type": "Black Fruits",
+         "style": [
+            "Smooth and Medium",
+            "Rich and Full",
+            ""
+         ],
+         "acidity": "High Acidity",
+         "acidity_level": 9.5,
+         "body": "Medium (+) Body",
+         "body_level": 7,
+         "tannin": "High Tannin",
+         "tannin_level": 9,
+         "aging_potential": 9
+      }
+   },
+   "uri": "Sagrantino_instance",
+   "classic": 6,
+   "oak": 6
+},
+ {
+   "page": {
+      "grape": {
+         "id": 100,
+         "grape_variety": "Rose",
+         "wine_type": "Rose Wine",
+         "colour": "Salmon",
+         "aroma_type": "Aromatic",
+         "style": [
+            "Light and Fruity",
+            "",
+            ""
+         ],
+         "acidity": "Medium (+) Acidity",
+         "acidity_level": 6,
+         "body": "Medium body",
+         "body_level": 5,
+         "tannin": "No Tannin",
+         "tannin_level": 5,
+         "aging_potential": 1
+      }
+   },
+   "uri": "",
+   "classic": 8,
+   "oak": 0
+}
+]
