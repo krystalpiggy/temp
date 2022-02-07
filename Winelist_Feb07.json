@@ -1,0 +1,54 @@
+[
+ {
+   "id": 94,
+   "brand": "Chapoutier",
+   "name": "M. Chapoutier Chateauneuf-du-Pape La Bernardine",
+   "region": "Rhone, France",
+   "subregion": "Chateauneuf-du-Pape",
+   "country": "France",
+   "ws_link": "https://www.wine-searcher.com/find/m+chapoutier+la+bernadine+chateauneuf+du+pape+rhone+france/1/usa",
+   "price": 58,
+   "ws_rating": 3.5,
+   "grape": "Southern Rhone Red Blend",
+   "classic": 9
+ },
+ {
+   "id": 95,
+   "brand": "Perrin, Famille",
+   "name": "Famille Perrin Chateauneuf-du-Pape Les Sinards",
+   "region": "Rhone, France",
+   "subregion": "Chateauneuf-du-Pape",
+   "country": "France",
+   "ws_link": "https://www.wine-searcher.com/find/fmly+perrin+les+sinard+chateauneuf+du+pape+rhone+france/1/usa",
+   "price": 41,
+   "ws_rating": 4,
+   "grape": "Southern Rhone Red Blend",
+   "classic": 8
+ },
+ {
+   "id": 96,
+   "brand": "Mont-Redon",
+   "name": "Chateau Mont-Redon Chateauneuf-du-Pape Blanc",
+   "region": "Rhone, France",
+   "subregion": "Chateauneuf-du-Pape",
+   "country": "France",
+   "ws_link": "https://www.wine-searcher.com/find/mont+redon+blanc+chateauneuf+du+pape+rhone+france/1/usa",
+   "price": 41,
+   "ws_rating": 3.5,
+   "grape": "Southern Rhone White Blend",
+   "classic": 6
+ },
+ {
+   "id": 97,
+   "brand": "Nerthe, Chateau la",
+   "name": "Chateau La Nerthe Chateauneuf-du-Pape Blanc",
+   "region": "Rhone, France",
+   "subregion": "Chateauneuf-du-Pape",
+   "country": "France",
+   "ws_link": "https://www.wine-searcher.com/find/la+nerthe+blanc+chateauneuf+du+pape+rhone+france/1/usa",
+   "price": 50,
+   "ws_rating": 3.5,
+   "grape": "Southern Rhone White Blend",
+   "classic": 7
+ }
+]
